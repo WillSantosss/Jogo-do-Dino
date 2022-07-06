@@ -6,7 +6,7 @@ Quem nunca jogo o famoso "Jogo do dinossauro sem internet"? aqui vocÃª o salvarÃ
 
 ### Linguagens utilizadas
 
-* HTML5
+* HTML
 * CSS
 * JavaScript
 
